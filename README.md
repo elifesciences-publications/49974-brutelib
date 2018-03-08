@@ -16,3 +16,11 @@ pip install .
 ```bash
 pytest
 ```
+
+## EXAMPLES 
+
+A simple neuron equipped with a small number of cooperative ion channels.
+```bash
+python examples/izhekevich_neuron_with_cooperative_calcium_channels.py 
+
+```
