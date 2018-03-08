@@ -1,4 +1,6 @@
 test:
     script:
+    - apt update
+    - apt-get install python-pip
     - pip install .
     - pytest
