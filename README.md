@@ -1,3 +1,5 @@
+### This code is associated with the paper from Pfeiffer et al., "Clusters of cooperative ion channels enable a membrane potential-based mechanism for short-term memory". eLife, 2020. http://dx.doi.org/10.7554/eLife.49974
+
 # BRUTELIB
 
 Brute force simulation of a special stochastic hybrid system.
